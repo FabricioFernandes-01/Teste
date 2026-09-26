@@ -1,10 +1,10 @@
 # Atividade para calcular média.
 *Uma pequena atividade sobre calcular média*
 
-# Tecnologias utilizadas.
-** Python **
+## Tecnologias utilizadas.
+ Python 
 
-# Como executar
+## Como executar
 
 ## Pré-requisitos
  Antes de iniciar no VSCode, é preciso ter o Python e Python debugger instalado e já poderá executar com run/debug  **
